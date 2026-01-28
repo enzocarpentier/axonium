@@ -4,6 +4,34 @@ Follow Axonium's evolution through the solar system.
 
 ---
 
+## v1.4.0 — Ravel
+*January 28, 2026*
+
+**A Breath of Fresh Air.**
+
+Axonium has been completely reimagined to be the ultimate browsing tool: more immersive, more fluid, and now ready to be your default browser.
+
+### New
+- 🎨 **Complete Redesign** — A refined, immersive aesthetic that clears the path for the web
+- 🏆 **Default Browser** — Axonium can now be set as your primary browser in System Settings
+- 🔍 **Precise Zoom Control** — Fine-tune your web experience with new zoom and unzoom commands
+- 📐 **Integrated Controls** — Window controls now live in the sidebar to maximize vertical space
+- ⚡ **Animation Overhaul** — New physics for instant, natural responsiveness across the app
+
+### Improved
+- 📺 **Video Playback** — Optimized YouTube experience for seamless, interruption-free watching
+- 📥 **Download Manager** — Strengthened architecture for a more reliable file management
+- 🏎️ **Performance** — Under-the-hood optimizations for a lighter, faster browsing experience
+
+### Fixed
+- ☁️ **iCloud Sync** — Restored engine for seamless profile, tab, and space synchronization
+- ⌨️ **Navigation** — Re-enabled Control+Tab shortcut for effortless tab switching
+- 🔗 **Address Bar** — Fixed URL persistence issues when closing tabs
+- 🌍 **Localization** — Cleaned up language residues for a perfectly consistent interface
+- 🛠️ **Stability** — Resolved various minor bugs and performance bottlenecks
+
+---
+
 ## v1.3.2 — Chopin
 *January 11, 2026*
 
